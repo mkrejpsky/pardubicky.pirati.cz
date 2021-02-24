@@ -11,7 +11,7 @@ author: Piráti Pardubického kraje
 image: articles/2021/pspcelo.jpg
 important: true
 ---
-**V Pardubicích, 22. února 2021- Poté, co si Piráti v Pardubickém kraji počátkem roku zvolili do voleb do Poslanecké sněmovny, čekali na volbu svého koaličního partnera. Sněm STAN v tajném hlasování zvolil v pátek 19. února na druhé místo společné kandidátky krajského zastupitele Jiřího Hájka. Páté místo doplní starosta obce Vysočina Tomáš Dubský. Posledním zvoleným za STAN je starosta obce Příluky David Šimek, který bude sedmý na společné kandidátce Pirátů a Starostů.**
+**Poté, co si Piráti v Pardubickém kraji počátkem roku zvolili do voleb do Poslanecké sněmovny, čekali na volbu svého koaličního partnera. Sněm STAN v tajném hlasování zvolil v pátek 19. února na druhé místo společné kandidátky krajského zastupitele Jiřího Hájka. Páté místo doplní starosta obce Vysočina Tomáš Dubský. Posledním zvoleným za STAN je starosta obce Příluky David Šimek, který bude sedmý na společné kandidátce Pirátů a Starostů.**
 
 Lídrem společné kandidátky je pirátský poslanec **[Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas-ferjencik/)**, ten k probíhajícímu sestavování kandidátní listiny říká:
 > „V příštím volebním období nás čeká spousta práce s tím dát zemi dohromady po koronavirové krizi. Musíme dostat veřejné finance z mínusu a celá země potřebuje modernizaci vzdělávání i ekonomiky. Věřím, že Piráti a Starostové posílají do voleb dobrou sestavu ke splnění tohoto úkolu.”
